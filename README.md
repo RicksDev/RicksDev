@@ -4,7 +4,7 @@
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.filho04/)
  
-![Emersonjrdev GitHub Status](https://github-readme-stats.vercel.app/api?username=emersonjrdev&show_icons=true&theme=radical)
+![RicksDev GitHub Status](https://github-readme-stats.vercel.app/api?username=RicksDev&show_icons=true&theme=radical)
  
 ## Tecnologias que eu uso no meu dia a dia
  
